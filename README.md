@@ -8,4 +8,4 @@
 
 > I had used technologies such as HTML, CSS, JavaScript, Laravel(PHP) and frontend templates. 
 
-> [Visit Gatisofttech](http://www.gatisofttech.com/ "Gatisofttech")
+> [Visit](http://www.gatisofttech.com/ "Gatisofttech")
